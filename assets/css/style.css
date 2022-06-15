@@ -4,10 +4,34 @@
 * {
     margin: 0;
     padding: 0;
-    border: 0;
+    border: none;
 }
 
 body {
     font-family: 'Montserrat', sans-serif;
     color: black;
+}
+
+/* Headings and logo */
+
+header {
+    display: flex;
+    flex-direction: column;
+}
+
+#logo {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 120%;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+#logo a {
+    text-decoration: none;
+    color: black;
+}
+
+#logo a:hover {
+    color: red;
 }
