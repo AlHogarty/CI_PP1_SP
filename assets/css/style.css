@@ -46,3 +46,9 @@ header {
     text-transform: uppercase;
     text-align: center;
 }
+
+.navigation li {
+    list-style-type: none;
+    display: inline;
+}
+
