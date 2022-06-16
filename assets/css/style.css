@@ -69,22 +69,22 @@ header a:hover {
 
 .main-image-index {
     background-color: beige;
-    background-image: url('../images/pexels-satoshi-hirayama-1633791.jpg');
+    background: url('../images/pexels-satoshi-hirayama-1633791.jpg') no-repeat center center;
 }
 
 .main-image-menu {
     background-color: beige;
-    background-image: url('../images/pexels-sebastian-coman-photography-3475617.jpg');
+    background: url('../images/pexels-sebastian-coman-photography-3475617.jpg') no-repeat center center;
 }
 
 .main-image-reservations {
     background-color: beige;
-    background-image: url('../images/pexels-satoshi-hirayama-4639543.jpg');
+    background: url('../images/pexels-satoshi-hirayama-4639543.jpg') no-repeat center center;
 }
 
 .main-image-contact {
     background-color: beige;
-    background-image: url('../images/pexels-janko-ferlic-590478.jpg');
+    background: url('../images/pexels-janko-ferlic-590478.jpg') no-repeat center center;
 }
 
 /* Footer Social Media links */
