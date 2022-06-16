@@ -35,3 +35,14 @@ header {
 .logo a:hover {
     color: red;
 }
+
+/* Navigation */
+
+.navigation {
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 120%;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    text-transform: uppercase;
+    text-align: center;
+}
