@@ -19,7 +19,7 @@ header {
     flex-direction: column;
 }
 
-#logo {
+.logo {
     font-family: 'Signika Negative', sans-serif;
     font-size: 120%;
     text-transform: uppercase;
@@ -27,11 +27,11 @@ header {
     text-align: center;
 }
 
-#logo a {
+.logo a {
     text-decoration: none;
     color: black;
 }
 
-#logo a:hover {
+.logo a:hover {
     color: red;
 }
