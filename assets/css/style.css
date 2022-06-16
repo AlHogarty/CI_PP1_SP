@@ -74,17 +74,17 @@ header a:hover {
 
 .main-image-menu {
     background-color: beige;
-    background-image: url('assets/images/pexels-sebastian-coman-photography-3475617.jpg');
+    background-image: url('../images/pexels-sebastian-coman-photography-3475617.jpg');
 }
 
 .main-image-reservations {
     background-color: beige;
-    background-image: url('assets/images/pexels-satoshi-hirayama-4639543.jpg');
+    background-image: url('../images/pexels-satoshi-hirayama-4639543.jpg');
 }
 
 .main-image-contact {
     background-color: beige;
-    background-image: url('assets/images/pexels-janko-ferlic-590478.jpg');
+    background-image: url('../images/pexels-janko-ferlic-590478.jpg');
 }
 
 /* Footer Social Media links */
