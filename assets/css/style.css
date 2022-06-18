@@ -119,12 +119,9 @@ header a:hover {
     /* Contact */
 
 .contact-container {
-    background-color: aquamarine;
 }
 
 .contact-page {
-    display: flex;
-    flex-direction: row;
     margin: 30px;
 }
 
@@ -132,6 +129,37 @@ header a:hover {
     margin: 0 auto;
 }
 
+.address {
+    float: left;
+    padding-bottom: 30px;
+}
+
+.opening-times {
+    float: right;
+    padding-bottom: 30px;
+}
+
+.map {
+    padding-top: 30px;
+}
+
+.contact-image {
+    background: url('../images/pexels-chepté-cormani-1416530.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.contact-image-center {
+    margin: 0 auto;
+    width: 33%;
+}
+
+.contact-image-container {
+    width: 300px;
+    height: 300px;
+    /* padding: 20px; */
+    margin: 0 auto;
+}
 
 /* Footer Social Media links */
 
