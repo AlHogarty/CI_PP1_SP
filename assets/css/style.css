@@ -119,7 +119,17 @@ header a:hover {
     /* Contact */
 
 .contact-container {
-    background-color: aqua;
+    background-color: aquamarine;
+}
+
+.contact-page {
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+}
+
+.opening-times table {
+    margin: 0 auto;
 }
 
 
