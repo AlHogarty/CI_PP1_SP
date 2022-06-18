@@ -137,6 +137,7 @@ header a:hover {
 .address {
     float: left;
     padding-bottom: 30px;
+    text-align: left;
 }
 
 .opening-times {
@@ -163,6 +164,17 @@ header a:hover {
     width: 300px;
     height: 300px;
     /* padding: 20px; */
+    margin: 0 auto;
+}
+
+/* Reservations page */
+
+.reservations-page {
+    background-color: bisque;
+    margin: 30px;
+}
+
+.book-a-table {
     margin: 0 auto;
 }
 
