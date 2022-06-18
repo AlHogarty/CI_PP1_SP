@@ -89,19 +89,21 @@ header a:hover {
 
 /* Main Content Section */
 
+.main-content {
+    text-align: center;
+    width: 70vw;
+    margin: 0 auto;
+    font-size: larger;
+}
+
+    /* Menu */
+
 .menu-line1 {
     border-top: 2px solid black;
 }
 
 .menu-line2 {
     border-top: 1px dotted black;
-}
-
-.main-content {
-    text-align: center;
-    width: 80vw;
-    margin: 0 auto;
-    font-size: larger;
 }
 
 .menu-header, .menu-headers {
@@ -112,6 +114,13 @@ header a:hover {
 
 .food-menu li {
     list-style-type: none;
+}
+
+    /* Contact */
+
+.contact-container {
+    background-color: aqua;
+    height: 600px;
 }
 
 
