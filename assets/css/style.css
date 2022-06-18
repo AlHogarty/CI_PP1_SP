@@ -98,6 +98,11 @@ header a:hover {
 
     /* Menu */
 
+.menu-content-container {
+    width: 100%;
+    margin: 0 auto;
+}
+
 .menu-line1 {
     border-top: 2px solid black;
 }
