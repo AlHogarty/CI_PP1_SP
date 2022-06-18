@@ -101,7 +101,7 @@ header a:hover {
 
 .social-links li {
     display: inline;
-    letter-spacing: 25px;
+    padding: 0 40px;
 }
 
 .social-links a {
