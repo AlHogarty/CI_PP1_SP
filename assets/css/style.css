@@ -53,8 +53,8 @@ header a:hover {
 }
 
 .active {
-    /* color: red; */
-    text-decoration: underline;
+    color: red;
+    /* text-decoration: underline; */
 }
 
 /* Main image section */
