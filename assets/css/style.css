@@ -102,6 +102,10 @@ header a:hover {
 .about-section {
 }
 
+.about-text {
+    margin-bottom: 40px;
+}
+
 .about-images {
     clear: both;
     line-height: 0;
