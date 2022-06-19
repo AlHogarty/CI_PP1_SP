@@ -276,6 +276,10 @@ header a:hover {
         padding: 20px;
         text-transform: uppercase;
     }
+
+    .about-images {
+        column-count: 2;
+    }
 }
 
 /* For medium screen sizes from 450px wide and down */
