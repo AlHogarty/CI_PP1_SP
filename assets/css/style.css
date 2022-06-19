@@ -97,6 +97,22 @@ header a:hover {
     font-size: larger;
 }
 
+    /* About Section */
+
+.about-section {
+}
+
+.about-images {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+.about-images > img {
+    width: 100%;
+}
+
     /* Menu */
 
 .menu-line1 {
@@ -293,5 +309,9 @@ header a:hover {
     .menu-header, .menu-headers {
         padding: 10px;
         text-transform: uppercase;
+    }
+
+    .about-images {
+        column-count: 2;
     }
 }
