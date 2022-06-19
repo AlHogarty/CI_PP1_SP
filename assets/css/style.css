@@ -263,8 +263,8 @@ header a:hover {
     }
 }
 
-/* For medium screen sizes from 400px wide and down */
-@media screen and (max-width: 400px) {
+/* For medium screen sizes from 450px wide and down */
+@media screen and (max-width: 450px) {
     .main-content {
         text-align: center;
         width: 100vw;
@@ -280,7 +280,7 @@ header a:hover {
 
     .logo {
         font-family: 'Signika Negative', sans-serif;
-        font-size: 60%;
+        font-size: 80%;
         text-transform: uppercase;
         letter-spacing: 10px;
         text-align: center;
@@ -288,7 +288,7 @@ header a:hover {
 
     .navigation {
         font-family: 'Signika Negative', sans-serif;
-        font-size: 60%;
+        font-size: 80%;
         letter-spacing: 5px;
         word-spacing: 5px;
         text-transform: uppercase;
