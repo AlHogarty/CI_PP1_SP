@@ -69,7 +69,7 @@
 
 ## Resources
 * Code Institute course materials, tutor and mentor support
-* W3schools
+* W3schools 
 * Love Running Walkthrough
 * Love Running Form Structure
 * Code Institute Slack Community
@@ -85,6 +85,8 @@
 ### Validator
 * https://validator.w3.org/
 ### Responsiveness
-* Google Dev Tools 
+* Google Dev Tools
+
 
 ## Acknowledegments
+
