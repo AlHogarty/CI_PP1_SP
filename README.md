@@ -37,15 +37,6 @@
     3. [Responsiveness](#responsiveness)
 7. [Acknowledegments](#acknowledegments)
 
- Design
-
- Color
-
- Fonts
-
-
-Wireframes
-
 <hr>
 
 ## Project Aims
