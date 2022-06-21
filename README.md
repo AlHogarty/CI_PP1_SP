@@ -5,7 +5,7 @@
 * Live project located here: [Sushi Palermo](https://www.google.com)
 
 * Link to Github repository is: [Sushi Palermo](https://github.com/AlHogarty/CI_PP1_SP)
-<hr>
+
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@
     3. [Responsiveness](#responsiveness)
 7. [Acknowledegments](#acknowledegments)
 
-<hr>
+
 
 ## Project Aims
 ### Business Type
@@ -53,7 +53,7 @@
 * User wants to book a table in the reservations page
 * User wants to find out the address, opening times and location on the contact page
 
-<hr>
+
 
 ## Features of the Site
 ### Logo
@@ -71,7 +71,7 @@
 ![alt text](/assets/images/footer.PNG "Logo Title Text 1")
 * the footer social media links are located at the bottom of each page accross all pages and consist of four icons for facebook, instagram, twitter and youtube
 
-<hr>
+
 
 ## Page Content
 ### Home Page
@@ -87,7 +87,7 @@
 ### Contact Page
 ![alt text](/assets/images/contact.PNG "Logo Title Text 1")
 * The contact page shows the user contact information and consists of the address, opening times and a google maps iframe
-<hr>
+
 
 ## Design
 
@@ -111,7 +111,7 @@
 <img src="assets/images/Contact-wire.png">
 </details>
 
-<hr>
+
 
 ## Technologies Used
 ### Languages
@@ -122,7 +122,7 @@
 * Google Fonts used for all fonts accross the site
 * Gitpod to create and edit the site
 * Github to host files and deployment of site
-<hr>
+
 
 ## Resources
 * Code Institute course materials, tutor and mentor support
@@ -132,7 +132,7 @@
 * Code Institute Slack Community
 * Pexels.com images:
 (Satoshi Hirayama, Sebastian Coman, Janko Ferlic, Alessandro Avilés Renaldi, Cottonbro, Cup of Couple, Luiz Fernando Maciel, Natan Machado Fotografia)
-<hr>
+
 
 ## Testing
 
