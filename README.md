@@ -24,7 +24,10 @@
     2. [Menu Page](#menu-page)
     3. [Reservations Page](#reservations-page)
     4. [Contact Page](#contact-page)
-4. [Wireframes](#wireframes)
+4. [Design](#design)
+    1. [Color](#color)
+    2. [Fonts](#fonts)
+    3. [Wireframes](#wireframes)
 5. [Technologies Used](#technologies-used)
     1. [Languages](#Languages)
     2. [Tools](#tools)
@@ -33,6 +36,15 @@
     2. [Validator](#validator)
     3. [Responsiveness](#responsiveness)
 7. [Acknowledegments](#acknowledegments)
+
+ Design
+
+ Color
+
+ Fonts
+
+
+Wireframes
 
 <hr>
 
@@ -86,7 +98,14 @@
 * The contact page shows the user contact information and consists of the address, opening times and a google maps iframe
 <hr>
 
-## Wireframes
+## Design
+
+### Color
+
+### Fonts
+
+
+### Wireframes
 
 <details><summary>Home</summary>
 <img src="assets/images/Home-wire.png">
