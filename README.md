@@ -93,6 +93,8 @@
 
 ### Color
 
+![alt text](/assets/images/color2.PNG "Logo Title Text 1")
+
 ### Fonts
 
 ![alt text](/assets/images/signikaegative.PNG "Logo Title Text 1")
