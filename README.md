@@ -2,9 +2,9 @@
 
 ![Mockup image](/assets/images/responsive.PNG "Am I responsive")
 
-* Live project located here: [Sushi Palermo](https://www.google.com)
+* Live project located here: [Sushi Palermo Live Project](https://alhogarty.github.io/CI_PP1_SP/)
 
-* Link to Github repository is: [Sushi Palermo](https://github.com/AlHogarty/CI_PP1_SP)
+* Link to Github repository is: [Sushi Palermo Github repository](https://github.com/AlHogarty/CI_PP1_SP)
 
 
 ## Table of Contents
@@ -94,6 +94,13 @@
 ### Color
 
 ### Fonts
+
+![alt text](/assets/images/signikaegative.PNG "Logo Title Text 1")
+
+![alt text](/assets/images/Montserrat.png "Logo Title Text 1")
+
+
+
 
 
 ### Wireframes
