@@ -35,7 +35,7 @@
 ![alt text](/assets/images/nav.PNG "Logo Title Text 1")
 * The navigation section is used accross all pages of the site and is used to navigate to the various sections of the site
 ### Main Image
-![alt text](/assets/images/main-image-res.PNG "Logo Title Text 1")
+![alt text](/assets/images/main1.PNG "Logo Title Text 1")
 * The main image consists of four different images that are used accross the site to give each page a different feel
 ### Content Section
 * The content section is unique to every page and has the about section, menu section, reservations section and contact section
