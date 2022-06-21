@@ -91,8 +91,8 @@ header a:hover {
     text-align: center;
     width: 70vw;
     margin: 0 auto;
-    padding-top: 20px;
-    font-size: larger;
+    padding-top: 1%;
+    font-size: large;
 }
 
     /* About Section */
@@ -290,6 +290,10 @@ header a:hover {
     .flex {
         display: block;    
     }
+
+    .meals-image {
+
+    }
 }
 
 /* For medium screen sizes from 450px wide and down */
@@ -331,5 +335,10 @@ header a:hover {
 
     .about-images {
         column-count: 2;
+    }
+
+    .meals-image {
+        width: 100%;
+        padding: 0;
     }
 }
