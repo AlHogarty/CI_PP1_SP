@@ -59,14 +59,20 @@
 * The contact page shows the user contact information and consists of the address, opening times and a google maps iframe
 
 ## Wireframes
-* Home
-![alt text](/assets/images/Home-wire.png "Logo Title Text 1")
-* Menu
-![alt text](/assets/images/Menu-wire.png "Logo Title Text 1")
-* Reservations
-![alt text](/assets/images/Reservations-wire.png "Logo Title Text 1")
-* Contact
-![alt text](/assets/images/Contact-wire.png "Logo Title Text 1")
+
+<details><summary>Home</summary>
+<img src="assets/images/Home-wire.png">
+</details>
+<details><summary>Menu</summary>
+<img src="assets/images/Menu-wire.png">
+</details>
+<details><summary>Reservations</summary>
+<img src="assets/images/Reservations-wire.png">
+</details>
+<details><summary>Contact</summary>
+<img src="assets/images/Contact-wire.png">
+</details>
+
 
 ## Technologies Used
 ### Languages
