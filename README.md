@@ -32,7 +32,6 @@
 ![alt text](/assets/images/logo.PNG "Logo Title Text 1")
 * The logo for Sushi Palermo is used accross all pages and serves as a link to the index.html, which is also the about section 
 ### Navigation
-![alt text](/assets/images/nav-hover.PNG "Logo Title Text 1")
 ![alt text](/assets/images/nav.PNG "Logo Title Text 1")
 * The navigation section is used accross all pages of the site and is used to navigate to the various sections of the site
 ### Main Image
@@ -59,9 +58,21 @@
 ![alt text](/assets/images/contact.PNG "Logo Title Text 1")
 * The contact page shows the user contact information and consists of the address, opening times and a google maps iframe
 
+## Wireframes
+* Home
+![alt text](/assets/images/Home-wire.png "Logo Title Text 1")
+* Menu
+![alt text](/assets/images/Menu-wire.png "Logo Title Text 1")
+* Reservations
+![alt text](/assets/images/Reservations-wire.png "Logo Title Text 1")
+* Contact
+![alt text](/assets/images/Contact-wire.png "Logo Title Text 1")
+
 ## Technologies Used
+### Languages
 * HTML5 to provide structure and content
 * CSS3 to provide style 
+### Frameworks & Tools
 * Font Awesome used for social media links
 * Google Fonts used for all fonts accross the site
 * Gitpod to create and edit the site
