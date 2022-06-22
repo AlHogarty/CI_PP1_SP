@@ -296,6 +296,11 @@ header a:hover {
         padding-top: 10px;
         padding-bottom: 10px;
     }
+
+    .meals-image > img {
+        width: 100%;
+        height: auto;
+    }
     
 }
 
@@ -344,4 +349,10 @@ header a:hover {
         width: 100%;
         padding: 0;
     }
+
+    .meals-image > img {
+        width: 100%;
+        height: auto;
+    }
+    
 }
