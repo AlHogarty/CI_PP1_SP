@@ -135,7 +135,8 @@ header a:hover {
 }
 
 .meals-image {
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 
@@ -292,8 +293,10 @@ header a:hover {
     }
 
     .meals-image {
-
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
+    
 }
 
 /* For medium screen sizes from 450px wide and down */
