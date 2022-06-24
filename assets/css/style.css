@@ -273,11 +273,15 @@ header a:hover {
         width: 100%;
         height: auto;
     }
+
+    .form-image {
+        height: 1000px;    
+    }
     
 }
 
-/* For medium screen sizes from 450px wide and down */
-@media screen and (max-width: 450px) {
+/* For medium screen sizes from 600px wide and down */
+@media screen and (max-width: 600px) {
     .main-content {
         text-align: center;
         width: 100vw;
