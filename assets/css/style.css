@@ -256,10 +256,6 @@ header a:hover {
         text-transform: uppercase;
     }
 
-    .about-images {
-        column-count: 3;
-    }
-
     .flex {
         display: block;    
     }
