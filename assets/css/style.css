@@ -1,3 +1,4 @@
+/* General styles */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Signika+Negative:wght@300&display=swap');
 
 
@@ -129,7 +130,7 @@ header a:hover {
     padding-bottom: 20px;
 }
 
-.meals-image img {
+.meals-image > img {
     border: 2px black solid;
 }
 
@@ -340,5 +341,4 @@ header a:hover {
         width: 100%;
         height: auto;
     }
-    
 }
