@@ -120,7 +120,8 @@ header a:hover {
 }
 
 .flex {
-    display: flex;    
+    display: flex;
+    justify-content: space-between;    
 }
 
 .meals-image {
@@ -130,6 +131,10 @@ header a:hover {
 
 .meals-image img {
     border: 2px black solid;
+}
+
+.food-menu {
+    text-align: left;
 }
 
 .food-menu li {
@@ -268,6 +273,10 @@ header a:hover {
     .meals-image {
         padding-top: 10px;
         padding-bottom: 10px;
+    }
+
+    .food-menu {
+        text-align: center;
     }
 
     .meals-image > img {
