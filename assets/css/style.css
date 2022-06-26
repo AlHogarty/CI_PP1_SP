@@ -170,15 +170,22 @@ header a:hover {
 }
 
 .reservations-container {
+    padding: 5%;
     width: 100%;
     height: auto;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-end;
 }
 
 .res-text {
     text-align: left;
-    padding: 60px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(60, 60, 60, 0.8);
+    color: rgb(251, 248, 248);
 }
 
 .book-a-table {
@@ -311,15 +318,21 @@ header a:hover {
     }
 
     .reservations-container {
-        padding: 5px;
-        width: 100%;
+        width: 70%;
         height: auto;
-        display: block;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: flex-end;
+        margin: 0 auto;
+        height: 500px;
     }
 
-    .reservations-image img {
-        border-radius: 50%;
-        width: 50%;
+    .res-text {
+        text-align: center;
+        padding: 10px;
+        width: 100%;
     }
     
 }
