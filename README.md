@@ -172,7 +172,7 @@ The W3C CSS Validation Service was used to validate the CSS of the website. All 
 </details>
 
 ### Accessibility
-The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. There were some contrast errors, because of the color red.
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors
 
 
 <details><summary>Home</summary>
