@@ -32,10 +32,10 @@
     1. [Languages](#Languages)
     2. [Tools](#tools)
 6. [Testing](#testing)
-    1. [HT Testing](#browser-testing)
-    1. [Browser Testing](#browser-testing)
-    1. [Browser Testing](#browser-testing)
-    1. [Browser Testing](#browser-testing)
+    1. [HTML Validation](#html-validation)
+    1. [CSS Validation](#css-validation)
+    1. [Accessibility](#accessibility)
+    1. [Performance](#performance)
     1. [Browser Testing](#browser-testing)
     3. [Responsiveness](#responsiveness)
 7. [Acknowledegments](#acknowledegments)
@@ -95,7 +95,7 @@
 ## Design
 
 ### Color
-
+!![alt text](/docs/color.png)
 ### Fonts
 
 * Signika Negative
@@ -173,7 +173,7 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 
 
 <details><summary>Home</summary>
-<img src="docs/validation/validation-accessibility-index.png">
+<img src="docs/validation/validation-accessibility-home.png">
 </details>
 <details><summary>Menu</summary>
 <img src="docs/validation/validation-accessibility-menu.png">
