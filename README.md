@@ -32,8 +32,11 @@
     1. [Languages](#Languages)
     2. [Tools](#tools)
 6. [Testing](#testing)
+    1. [HT Testing](#browser-testing)
     1. [Browser Testing](#browser-testing)
-    2. [Validator](#validator)
+    1. [Browser Testing](#browser-testing)
+    1. [Browser Testing](#browser-testing)
+    1. [Browser Testing](#browser-testing)
     3. [Responsiveness](#responsiveness)
 7. [Acknowledegments](#acknowledegments)
 
@@ -139,7 +142,8 @@
 
 ## Testing
 
-### HTML Validator
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with 0 errors. All pages but timetable.html pass with 0 errors and 0 warnings.
 <details><summary>Home</summary>
 <img src="docs/validation/validation-html-home.png">
 </details>
@@ -153,7 +157,10 @@
 <img src="docs/validation/validation-html-contact.png">
 </details>
 
-### CSS Validator
+### CSS Validation
+The W3C CSS Validation Service was used to validate the CSS of the website.
+
+
 <details><summary>Whole Page</summary>
 <img src="docs/validation/validation-css-whole-page.png">
 </details>
@@ -162,6 +169,9 @@
 </details>
 
 ### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards.
+
+
 <details><summary>Home</summary>
 <img src="docs/validation/validation-accessibility-index.png">
 </details>
@@ -176,8 +186,10 @@
 </details>
 
 ### Performance
+Google Lighthouse was used to measure the performance and speed of the website.
+
 <details><summary>Home</summary>
-<img src="docs/validation/lighthouse-performace-index.png">
+<img src="docs/validation/lighthouse-performace-home.png">
 </details>
 <details><summary>Menu</summary>
 <img src="docs/validation/lighthouse-performace-menu.png">
@@ -193,8 +205,7 @@
 * Safari Mobile
 * Google Chrome
 * Firefox 
-### Validator
-* https://validator.w3.org/
+
 ### Responsiveness
 * Google Dev Tools
 
