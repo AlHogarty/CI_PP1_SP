@@ -160,7 +160,6 @@ header a:hover {
     padding-bottom: 30px;
 }
 
-
 /* Reservations page */
 .reservations-page {
     margin: 30px;
@@ -170,7 +169,7 @@ header a:hover {
 }
 
 .reservations-container {
-    padding: 5%;
+    padding: 20px;
     width: 100%;
     height: auto;
     display: flex;
