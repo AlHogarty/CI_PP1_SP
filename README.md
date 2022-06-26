@@ -144,18 +144,51 @@
 <img src="docs/validation/validation-html-home.png">
 </details>
 <details><summary>Menu</summary>
-<img src="docs/wireframes/menu-wire.png">
+<img src="docs/validation/validation-html-menu.png">
 </details>
 <details><summary>Reservations</summary>
-<img src="docs/wireframes/reservations-wire.png">
+<img src="docs/validation/validation-html-reservations.png">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/wireframes/contact-wire.png">
+<img src="docs/validation/validation-html-contact.png">
 </details>
 
 ### CSS Validator
+<details><summary>Whole Page</summary>
+<img src="docs/validation/validation-css-whole-page.png">
+</details>
+<details><summary>Stylesheet</summary>
+<img src="docs/validation/validation-css-style.png">
+</details>
+
 ### Accessibility
+<details><summary>Home</summary>
+<img src="docs/validation/validation-accessibility-index.png">
+</details>
+<details><summary>Menu</summary>
+<img src="docs/validation/validation-accessibility-menu.png">
+</details>
+<details><summary>Reservations</summary>
+<img src="docs/validation/validation-accessibility-reservations.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/validation-accessibility-contact.png">
+</details>
+
 ### Performance
+<details><summary>Home</summary>
+<img src="docs/validation/lighthouse-performace-index.png">
+</details>
+<details><summary>Menu</summary>
+<img src="docs/validation/lighthouse-performace-menu.png">
+</details>
+<details><summary>Reservations</summary>
+<img src="docs/validation/lighthouse-performace.reservations.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/lighthouse-performace-contact.png">
+</details>
+
 ### Browser Testing
 * Safari Mobile
 * Google Chrome
