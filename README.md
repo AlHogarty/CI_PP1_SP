@@ -61,42 +61,41 @@
 
 ## Features of the Site
 ### Logo
-![alt text](/docs/features/logo.png)
+![Logo](/docs/features/logo.png)
 * The logo for Sushi Palermo is used accross all pages and serves as a link to the index.html, which is also the about section 
 ### Navigation
-![alt text](/docs/features/navigation.png)
+![Navigation](/docs/features/navigation.png)
 * The navigation section is used accross all pages of the site and is used to navigate to the various sections of the site
 ### Main Image
-![alt text](/docs/features/main-image.png)
+![Main Image](/docs/features/main-image.png)
 * The main image consists of four different images that are used accross the site to give each page a different feel
 ### Content Section
 * The content section is unique to every page and has the about section, menu section, reservations section and contact section
 ### Footer Social Media Links
-![alt text](/docs/features/footer.png)
+![Footer](/docs/features/footer.png)
 * the footer social media links are located at the bottom of each page accross all pages and consist of four icons for facebook, instagram, twitter and youtube
 
 
 
 ## Page Content
 ### Home Page
-![alt text](/docs/features/pages-home.png)
-
+![Home Page](/docs/features/pages-home.png)
 * The home page is the first page that the user will see and it also serves as the about section which will show the user the a brief introduction of the restraurant including 12 images below
 ### Menu Page
-![alt text](/docs/features/pages-menu.png)
+![Menu Page](/docs/features/pages-menu.png)
 * The menu page shows the user what is on the menu of the restaurant and consists of starters, mains and desserts. Each one of these sections has 4 dishes with a brief description and price
 ### Reservations Page
-![alt text](/docs/features/pages-reservations.png)
+![Reservations Page](/docs/features/pages-reservations.png)
 * The reservations page shows the user a form that they can use to book a table for the restaurant. The user will be asked to enter their first and last name, email address, time and date of booking and how many people want to eat. Customer reviews have also been included on this page
 ### Contact Page
-![alt text](/docs/features/pages-contact.png)
+![Contact Page](/docs/features/pages-contact.png)
 * The contact page shows the user contact information and consists of the address, opening times and a google maps iframe
 
 
 ## Design
 
 ### Color
-![alt text](/docs/color.png)
+![Color](/docs/color.png)
 
 ### Fonts
 
