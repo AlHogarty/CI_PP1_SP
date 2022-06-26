@@ -98,7 +98,7 @@
 ### Color
 ![Color](/docs/color.png)
 
-A white background, black font and red active link colors were used accross the site. A grey backgroud with white text was used on the reservations form and review section.
+A white background, black font colors were used accross the site. Red hover links were used on the social media links. Originally the red active links were used, but that as causeing contrast issues. A grey backgroud with white text was used on the reservations form and review section.
 
 ### Fonts
 
