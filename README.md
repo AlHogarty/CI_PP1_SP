@@ -87,7 +87,7 @@
 * The menu page shows the user what is on the menu of the restaurant and consists of starters, mains and desserts. Each one of these sections has 4 dishes with a brief description and price
 ### Reservations Page
 ![alt text](/docs/features/pages-reservations.png)
-* The reservations page shows the user a form that they can use to book a table for the restaurant. The user will be asked to enter their first and last name, email address, time and date of booking and how many people want to eat.
+* The reservations page shows the user a form that they can use to book a table for the restaurant. The user will be asked to enter their first and last name, email address, time and date of booking and how many people want to eat. Customer reviews have also been included on this page
 ### Contact Page
 ![alt text](/docs/features/pages-contact.png)
 * The contact page shows the user contact information and consists of the address, opening times and a google maps iframe
