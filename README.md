@@ -95,7 +95,8 @@
 ## Design
 
 ### Color
-!![alt text](/docs/color.png)
+![alt text](/docs/color.png)
+
 ### Fonts
 
 * Signika Negative
