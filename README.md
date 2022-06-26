@@ -97,6 +97,8 @@
 ### Color
 ![Color](/docs/color.png)
 
+A white background, black font and red active link colors were used accross the site. A grey backgroud with white text was used on the reservations form and review section.
+
 ### Fonts
 
 * Signika Negative
