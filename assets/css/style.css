@@ -286,6 +286,10 @@ header a:hover {
     .form-image {
         height: 1000px;    
     }
+
+    .address {
+        text-align: center;
+    }
     
 }
 
