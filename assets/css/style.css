@@ -165,10 +165,23 @@ header a:hover {
 .reservations-page {
     margin: 30px;
     position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.reservations-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.res-text {
+    text-align: left;
+    padding: 60px;
 }
 
 .book-a-table {
-    position: relative;
     top: 150px;
     color: rgb(251, 248, 248);
     background-color: rgba(60, 60, 60, 0.8);
@@ -289,6 +302,24 @@ header a:hover {
 
     .address {
         text-align: center;
+    }
+
+    .reservations-page {
+        margin: 30px;
+        position: relative;
+        display: block;
+    }
+
+    .reservations-container {
+        padding: 5px;
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .reservations-image img {
+        border-radius: 50%;
+        width: 50%;
     }
     
 }
