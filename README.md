@@ -31,6 +31,7 @@
 5. [Technologies Used](#technologies-used)
     1. [Languages](#Languages)
     2. [Tools](#tools)
+6. [Resources](#resources)
 6. [Testing](#testing)
     1. [HTML Validation](#html-validation)
     2. [CSS Validation](#css-validation)
