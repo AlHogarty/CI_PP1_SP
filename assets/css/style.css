@@ -152,13 +152,11 @@ header a:hover {
 }
 
 .address {
-    float: left;
     padding-bottom: 30px;
     text-align: left;
 }
 
 .opening-times {
-    float: right;
     padding-bottom: 30px;
 }
 
