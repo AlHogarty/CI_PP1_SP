@@ -147,7 +147,7 @@ A white background, black font and red active link colors were used accross the 
 ## Testing
 
 ### HTML Validation
-The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with 0 errors. All pages but contact.html pass with 0 errors and 0 warnings.
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with 0 errors.
 <details><summary>Home</summary>
 <img src="docs/validation/validation-html-home.png">
 </details>
