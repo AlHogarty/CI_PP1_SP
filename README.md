@@ -52,8 +52,9 @@
 ### User Stories
 * User wants to be able to easily navigate through the website
 * User wants to be able to read the history of the restaurant on the about page
-* User wants to have a look at the menu items, descriptions and prices of all the meals
+* User wants to be able to look at the menu items, images, descriptions and prices of all the meals
 * User wants to book a table in the reservations page
+* User wants to read customer reviews
 * User wants to find out the address, opening times and location on the contact page
 
 
@@ -211,4 +212,7 @@ Google Lighthouse was used to measure the performance and speed of the website. 
 
 
 ## Acknowledegments
+* To my family and friends for their testing, feedback and support
+* To my mentor Mo Shami for his guidance, feedback and support
+* To the Code Institute Slack community for their advice, resources and support
 
