@@ -111,12 +111,15 @@ header a:hover {
 }
 
 .about-video {
-    margin: 0 auto;
-    width: 60%;
-    height: 200%;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+    display: flex;
 }
 
-.responsive-iframe {
+.about-video iframe {
+    position: absolute;
     width: 100%;
     height: 100%;
 }
