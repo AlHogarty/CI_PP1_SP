@@ -202,15 +202,15 @@ header a:hover {
     justify-content: space-between;
 }
 
-.reservations-container {
+.review-container {
     padding: 20px;
-    width: 100%;
+    width: 50%;
     height: auto;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
     flex-wrap: nowrap;
-    align-items: flex-end;
+    align-items: stretch;
 }
 
 .res-text {
@@ -354,16 +354,17 @@ header a:hover {
         display: block;
     }
 
-    .reservations-container {
-        width: 70%;
+    .review-container {
+        width: 50%;
         height: auto;
         display: flex;
         justify-content: space-evenly;
         flex-direction: column;
-        flex-wrap: nowrap;
-        align-items: flex-end;
+        flex-wrap: wrap;
+        align-content: space-around;
+        align-items: ;
         margin: 0 auto;
-        height: 500px;
+        height: 400px;
     }
 
     .res-text {
