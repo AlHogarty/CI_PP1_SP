@@ -362,9 +362,8 @@ header a:hover {
         flex-direction: column;
         flex-wrap: wrap;
         align-content: space-around;
-        align-items: ;
         margin: 0 auto;
-        height: 400px;
+        height: 500px;
     }
 
     .res-text {
