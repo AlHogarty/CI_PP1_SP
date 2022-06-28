@@ -34,10 +34,6 @@
     1. [Resources](#resources)
     2. [Acknowledegments](#acknowledegments)
 
-
-
-
-
 ## Project Aims
 ### User 
 * Find a nice restaurant that serves Sushi in Palermo
@@ -482,5 +478,3 @@ The website was tested on the following browers:
 * To my family and friends for their testing, feedback and support
 * To my mentor Mo Shami for his guidance, feedback and support
 * To the Code Institute Slack community for their advice, resources and support
-
-
