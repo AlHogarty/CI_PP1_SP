@@ -223,6 +223,97 @@ The website was tested on the following browers:
 * Firefox 
 
 ### Testing User Stories
+1. As a first time user, I want to be able to easily navigate through the site
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Logo        | Link to home | allows the user to navigate to home page | Works as expected |
+| Nav Bar     | Links to menu, reservations, contact page| allows the user navigate entire site | Works as expected |
+| 404 page    | Link back home | allows user to navigate back to home page | Works as expected |
+
+2. As a first time user, I want to to see where the restaurant is located
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map         | Navigate to Contact page, scroll down | See map | Works as expected | 
+
+3. As a first time user, I want to read about the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Section | Navigate to Home page, scroll down | See about section | Works as expected |
+
+4. As a first time user, I want to find out what is on the menu
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu Section| Navigate to Menu page, scroll down | See all food items| Works as expected |
+
+5. As a first time user, I want to see images of the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Images of Restaurant | Navigate to Home page, scroll down | See images of Restaurant | Works as expected |
+
+6. As a returning user, I want to see the price range of the menu
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Menu Section| Navigate to Menu page, scroll down| See price of all meals beside meal items | Works as expected |
+
+7. As a returning user, I want to see the opening times of the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Opening Times | Navigate to Contact page, scroll down| See opening times of retaurant| Works as expected|
+
+8. As a returning user, I want to read reviews of the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Reviews | Navigate to Reservations Page, scroll down | See customer reviews| Works as expected|
+
+9. As a returning user, I want to be able to make a reservation
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Reservation Form | Navigate to Reservations Page, scroll down | See form to book a table | Works as expected|
+
+10. As a returning user, I want to find the social media links for the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer Social Media Links | Scroll to the bottom of any page | See social media links | Works as expected|
+
+11. As the site owner, I want the users to get to know the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Section | Navigate to Home page, scroll down | See About section | Works as expected |
+
+12. As the site owner, I want the users to find the address of the restaurant
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Address | Navigate to Contact page, scroll down | See Address of the restaurant | Works as expected |
+
+13. As the site owner, I want the users to be able to book a table
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Reservation Form | Navigate to Reservations Page, scroll down | See form to book a table | Works as expected |
+
+14. As the site owner, I want the users to watch the video about how sushi is made
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Sushi Making Video | Navigate to the Home page, scroll down, click on youtube video | See video |Works as expected|
+
+15. As the site owner, I want the users to be able to view a different main image on each page
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Main Image Section | Navigate through all the pages | See a new image appear for each page | Works as expected |
 
 
 ### Responsiveness
