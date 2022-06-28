@@ -230,48 +230,102 @@ The website was tested on the following browers:
 | Logo        | Link to home | allows the user to navigate to home page | Works as expected |
 | Nav Bar     | Links to menu, reservations, contact page| allows the user navigate entire site | Works as expected |
 | 404 page    | Link back home | allows user to navigate back to home page | Works as expected |
+<details><summary>Screenshot</summary>
+<img src="docs/features/logo.png">
+<img src="docs/features/navigation.png">
+<img src="docs/features/404.png">
+</details>
+<br>
 
 2. As a first time user, I want to to see where the restaurant is located
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Map         | Navigate to Contact page, scroll down | See map | Works as expected | 
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-contact.png">
+<br>
+<img src="docs/features/test-map.png">
+</details>
+
+<br>
 
 3. As a first time user, I want to read about the restaurant
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Story to the Restaurant | Navigate to Home page, scroll down | See Story to the Restaurant | Works as expected |
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-home.png">
+<br>
+<img src="docs/features/test-about-read.png">
+</details>
+
+<br>
 
 4. As a first time user, I want to find out what is on the menu
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Menu Section| Navigate to Menu page, scroll down | See all food items| Works as expected |
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-menu.png">
+<br>
+<img src="docs/features/test-menu.png">
+</details>
+
+<br>
 
 5. As a first time user, I want to see images of the restaurant
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Images of Restaurant | Navigate to Home page, scroll down | See images of Restaurant | Works as expected |
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-home.png">
+<br>
+<img src="docs/features/test-about-images.png">
+</details>
+<br>
 
 6. As a returning user, I want to see the price range of the menu
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Menu Section| Navigate to Menu page, scroll down| See price of all meals beside meal items | Works as expected |
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-menu.png">
+<br>
+<img src="docs/features/test-menu-prices.png">
+</details>
+
+<br>
 
 7. As a returning user, I want to see the opening times of the restaurant
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Opening Times | Navigate to Contact page, scroll down| See opening times of retaurant| Works as expected|
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-contact.png">
+<br>
+<img src="docs/features/test-times.png">
+</details>
+
+<br>
 
 8. As a returning user, I want to read reviews of the restaurant
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Reviews | Navigate to Reservations Page, scroll down | See customer reviews| Works as expected|
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-reservations.png">
+<br>
+<img src="docs/features/test-reviews.png">
+</details>
+
+<br>
 
 9. As a returning user, I want to be able to make a reservation
 
@@ -279,11 +333,25 @@ The website was tested on the following browers:
 |-------------|------------|---------------------|-------------------|
 | Reservation Form | Navigate to Reservations Page, scroll down | See form to book a table | Works as expected|
 
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-reservations.png">
+<br>
+<img src="docs/features/test-reservations.png">
+</details>
+
+<br>
+
 10. As a returning user, I want to find the social media links for the restaurant
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer Social Media Links | Scroll to the bottom of any page | See social media links | Works as expected|
+
+<details><summary>Screenshot</summary>
+<img src="docs/features/test-social.png">
+</details>
+
+<br>
 
 11. As the site owner, I want the users to get to know the restaurant
 
@@ -291,11 +359,26 @@ The website was tested on the following browers:
 |-------------|------------|---------------------|-------------------|
 | Story to the Restaurant | Navigate to Home page, scroll down | See Story to the Restaurant | Works as expected |
 
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-home.png">
+<br>
+<img src="docs/features/test-about-read.png">
+</details>
+
+<br>
+
 12. As the site owner, I want the users to find the address of the restaurant
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Address | Navigate to Contact page, scroll down | See Address of the restaurant | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-contact.png">
+<br>
+<img src="docs/features/test-address.png">
+</details>
+<br>
 
 13. As the site owner, I want the users to be able to book a table
 
@@ -303,17 +386,46 @@ The website was tested on the following browers:
 |-------------|------------|---------------------|-------------------|
 | Reservation Form | Navigate to Reservations Page, scroll down | See form to book a table | Works as expected |
 
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-reservations.png">
+<br>
+<img src="docs/features/test-reservations.png">
+</details>
+
+<br>
+
 14. As the site owner, I want the users to watch the video about how sushi is made
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Sushi Making Video | Navigate to the Home page, scroll down, click on youtube video | See video |Works as expected|
 
+<details><summary>Screenshot</summary>
+<img src="docs/features/navigate-home.png">
+<br>
+<img src="docs/features/test-video.png">
+</details>
+
+<br>
+
 15. As the site owner, I want the users to be able to view a different main image on each page
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Main Image Section | Navigate through all the pages | See a new image appear for each page | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/features/test-home-image.png">
+<br>
+<img src="docs/features/test-menu-image.png">
+<br>
+<img src="docs/features/test-reservations-image.png">
+<br>
+<img src="docs/features/test-contact-image.png">
+</details>
+
+
+<br>
 
 
 ### Responsiveness
