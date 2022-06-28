@@ -241,7 +241,7 @@ The website was tested on the following browers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Section | Navigate to Home page, scroll down | See about section | Works as expected |
+| Story to the Restaurant | Navigate to Home page, scroll down | See Story to the Restaurant | Works as expected |
 
 4. As a first time user, I want to find out what is on the menu
 
@@ -289,7 +289,7 @@ The website was tested on the following browers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Section | Navigate to Home page, scroll down | See About section | Works as expected |
+| Story to the Restaurant | Navigate to Home page, scroll down | See Story to the Restaurant | Works as expected |
 
 12. As the site owner, I want the users to find the address of the restaurant
 
