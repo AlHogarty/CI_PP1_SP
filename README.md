@@ -92,6 +92,10 @@ A white background, black font colors were used accross the site. Red hover link
 ![Map](/docs/features/map.png)
 * The map is located in the contact page and lets the user know the location of the retaurant on google maps
 * User stories covered: 2, 12
+### Address
+![Address](/docs/features/address.png)
+* The address is located in the contact page and lets the user find out the address
+* User stories covered: 2, 12
 ### Story to the Restaurant
 ![Story](/docs/features/read-about.png)
 * The story of the restaurant is located in the about section and gives the user an introdution to the restaurant
@@ -131,30 +135,12 @@ range
 * The video tells the user how sushi is made
 * User stories covered: 11, 14
 ### Main Image
-![Main Image](/docs/features/main-image-home.png)
-![Main Image](/docs/features/main-image-menu.png)
-![Main Image](/docs/features/main-image-reservations.png)
-![Main Image](/docs/features/main-image-contact.png)
+![Home](/docs/features/main-image-home.png)
+![Menu](/docs/features/main-image-menu.png)
+![Reservations](/docs/features/main-image-reservations.png)
+![Contact](/docs/features/main-image-contact.png)
 * The main image consists of four different images that are used accross the site to give each page a different look
 * User stories covered: 15
-
-
-
-
-
-
-### Address
-![Address](/docs/features/address.png)
-* The address is located in the contact page and lets the user find out the address
-* User stories covered: 2, 12
-
-
-
-
-
-
-
-
 
 ## Resources
 * Code Institute course materials, tutor and mentor support
@@ -165,8 +151,6 @@ range
 * Pexels.com images:
 (Satoshi Hirayama, Sebastian Coman, Janko Ferlic, Alessandro Avilés Renaldi, Cottonbro, Cup of Couple, Luiz Fernando Maciel, Natan Machado Fotografia)
 * [Sushi Making Video](https://youtu.be/joweUxpHaqc) on about section
-
-
 
 ## Testing
 
@@ -228,10 +212,14 @@ Google Lighthouse was used to measure the performance and speed of the website. 
 <img src="docs/validation/lighthouse-performace-contact.png">
 </details>
 
-### Browser Testing
+### Browser Compatibility
+The website was tested on the following browers:
 * Safari Mobile
 * Google Chrome
 * Firefox 
+
+### Testing User Stories
+
 
 ### Responsiveness
 * Google Dev Tools
