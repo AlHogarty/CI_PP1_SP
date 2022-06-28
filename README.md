@@ -88,6 +88,10 @@ A white background, black font colors were used accross the site. Red hover link
 ![Navigation](/docs/features/navigation.png)
 * The navigation section is used accross all pages of the site and is used to navigate to the various sections of the site
 * User stories covered: 1
+### 404 Page
+![Navigation](/docs/features/404.png)
+* If the user gets lost and ends up on a page that doesn't exist, they will be directed to the 404 page where they can easily navigate back to the main page
+* User stories covered: 1
 ### Map
 ![Map](/docs/features/map.png)
 * The map is located in the contact page and lets the user know the location of the retaurant on google maps
