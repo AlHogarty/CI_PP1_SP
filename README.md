@@ -68,39 +68,6 @@ A white background, black font colors were used accross the site. Red hover link
 <img src="docs/wireframes/contact-wire.png">
 </details>
 
-## Features of the Site
-### Logo
-![Logo](/docs/features/logo.png)
-* The logo for Sushi Palermo is used accross all pages and serves as a link to the index.html, which is also the about section 
-### Navigation
-![Navigation](/docs/features/navigation.png)
-* The navigation section is used accross all pages of the site and is used to navigate to the various sections of the site
-### Main Image
-![Main Image](/docs/features/main-image.png)
-* The main image consists of four different images that are used accross the site to give each page a different feel
-### Content Section
-* The content section is unique to every page and has the about section, menu section, reservations section and contact section
-### Footer Social Media Links
-![Footer](/docs/features/footer.png)
-* The footer social media links are located at the bottom of each page accross all pages and consist of four icons for facebook, instagram, twitter and youtube
-
-
-
-## Page Content
-### Home Page
-![Home Page](/docs/features/pages-home.png)
-* The home page is the first page that the user will see and it also serves as the about section which will show the user the a brief introduction of the restraurant including a external youtube video on how to make sushi and 12 images below
-### Menu Page
-![Menu Page](/docs/features/pages-menu.png)
-* The menu page shows the user what is on the menu of the restaurant and consists of starters, mains and desserts. Each one of these sections has 4 dishes with a brief description and price
-### Reservations Page
-![Reservations Page](/docs/features/pages-reservations.png)
-* The reservations page shows the user a form that they can use to book a table for the restaurant. The user will be asked to enter their first and last name, email address, time and date of booking and how many people want to eat. Customer reviews have also been included on this page
-### Contact Page
-![Contact Page](/docs/features/pages-contact.png)
-* The contact page shows the user contact information and consists of the address, opening times and a google maps iframe
-
-
 ## Technologies Used
 ### Languages
 * HTML5 to provide structure and content
@@ -110,6 +77,71 @@ A white background, black font colors were used accross the site. Red hover link
 * Google Fonts used for all fonts accross the site
 * Gitpod to create and edit the site
 * Github to host files and deployment of site
+
+
+## Features of the Site
+### Logo
+![Logo](/docs/features/logo.png)
+* The logo for Sushi Palermo is used accross all pages and serves as a link to the index.html, which is also the about section
+* User stories covered:
+### Navigation
+![Navigation](/docs/features/navigation.png)
+* The navigation section is used accross all pages of the site and is used to navigate to the various sections of the site
+* User stories covered:
+### Main Image
+![Main Image](/docs/features/main-image.png)
+* The main image consists of four different images that are used accross the site to give each page a different look
+* User stories covered:
+### Footer Social Media Links
+![Footer](/docs/features/footer.png)
+* The footer social media links are located at the bottom of each page accross all pages and consist of four icons for facebook, instagram, twitter and youtube
+* User stories covered:
+### Story to the Restaurant
+![Footer](/docs/features/read-about.png)
+* The story of the restaurant is located in the about section and gives the user an introdution to the restaurant
+* User stories covered:
+### Sushi Making Video
+![Video](/docs/features/sushi-vid.png)
+* The video tells the user how sushi is made
+* User stories covered:
+### Images of the Restaurant
+![About images](/docs/features/about-images.png)
+* The images of the restaurant are located in the about section and gives the user an idea of how it looks inside
+* User stories covered:
+### Food Menu
+![Food Menu](/docs/features/food-menu.png)
+* The menu tells the user what food is on the menu
+* User stories covered:
+### Prices
+![Prices](/docs/features/food-menu-price.PNG)
+* The prices are included within the food menu and tells the user the price
+range
+* User stories covered:
+### Reservation Form
+![Reservation Form](/docs/features/form.png)
+* The form is located in the reservations page and lets the user book a table
+* User stories covered:
+### Customer Reviews
+![Customer Reviews](/docs/features/reviews.png)
+* The form is located in the reservations page and lets the user book a table
+* User stories covered:
+### Address
+![Address](/docs/features/address.png)
+* The address is located in the contact page and lets the user find out the address
+* User stories covered:
+### Opening Times
+![Opening Times](/docs/features/opening-times.png)
+* The opening times is located in the contact page and lets the user know when the restaurant is open
+* User stories covered:
+### Map
+![Map](/docs/features/map.png)
+* The map is located in the contact page and lets the user know the location of the retaurant on google maps
+* User stories covered:
+
+
+
+
+
 
 
 ## Resources
