@@ -81,7 +81,7 @@
 ## Page Content
 ### Home Page
 ![Home Page](/docs/features/pages-home.png)
-* The home page is the first page that the user will see and it also serves as the about section which will show the user the a brief introduction of the restraurant including 12 images below
+* The home page is the first page that the user will see and it also serves as the about section which will show the user the a brief introduction of the restraurant including a external youtube video on how to make sushi and 12 images below
 ### Menu Page
 ![Menu Page](/docs/features/pages-menu.png)
 * The menu page shows the user what is on the menu of the restaurant and consists of starters, mains and desserts. Each one of these sections has 4 dishes with a brief description and price
@@ -142,6 +142,8 @@ A white background, black font colors were used accross the site. Red hover link
 * Code Institute Slack Community
 * Pexels.com images:
 (Satoshi Hirayama, Sebastian Coman, Janko Ferlic, Alessandro Avilés Renaldi, Cottonbro, Cup of Couple, Luiz Fernando Maciel, Natan Machado Fotografia)
+* [Sushi Making Video](https://youtu.be/joweUxpHaqc) on about section
+
 
 
 ## Testing
