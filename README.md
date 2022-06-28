@@ -83,60 +83,72 @@ A white background, black font colors were used accross the site. Red hover link
 ### Logo
 ![Logo](/docs/features/logo.png)
 * The logo for Sushi Palermo is used accross all pages and serves as a link to the index.html, which is also the about section
-* User stories covered:
+* User stories covered: 1
 ### Navigation
 ![Navigation](/docs/features/navigation.png)
 * The navigation section is used accross all pages of the site and is used to navigate to the various sections of the site
-* User stories covered:
-### Main Image
-![Main Image](/docs/features/main-image.png)
-* The main image consists of four different images that are used accross the site to give each page a different look
-* User stories covered:
-### Footer Social Media Links
-![Footer](/docs/features/footer.png)
-* The footer social media links are located at the bottom of each page accross all pages and consist of four icons for facebook, instagram, twitter and youtube
-* User stories covered:
+* User stories covered: 1
+### Map
+![Map](/docs/features/map.png)
+* The map is located in the contact page and lets the user know the location of the retaurant on google maps
+* User stories covered: 2, 12
 ### Story to the Restaurant
-![Footer](/docs/features/read-about.png)
+![Story](/docs/features/read-about.png)
 * The story of the restaurant is located in the about section and gives the user an introdution to the restaurant
-* User stories covered:
-### Sushi Making Video
-![Video](/docs/features/sushi-vid.png)
-* The video tells the user how sushi is made
-* User stories covered:
-### Images of the Restaurant
-![About images](/docs/features/about-images.png)
-* The images of the restaurant are located in the about section and gives the user an idea of how it looks inside
-* User stories covered:
+* User stories covered: 3, 11
 ### Food Menu
 ![Food Menu](/docs/features/food-menu.png)
 * The menu tells the user what food is on the menu
-* User stories covered:
+* User stories covered: 4
+### Images of the Restaurant
+![About images](/docs/features/about-images.png)
+* The images of the restaurant are located in the about section and gives the user an idea of how it looks inside
+* User stories covered: 5
+
 ### Prices
 ![Prices](/docs/features/food-menu-price.PNG)
 * The prices are included within the food menu and tells the user the price
 range
-* User stories covered:
-### Reservation Form
-![Reservation Form](/docs/features/form.png)
-* The form is located in the reservations page and lets the user book a table
-* User stories covered:
-### Customer Reviews
-![Customer Reviews](/docs/features/reviews.png)
-* The form is located in the reservations page and lets the user book a table
-* User stories covered:
-### Address
-![Address](/docs/features/address.png)
-* The address is located in the contact page and lets the user find out the address
-* User stories covered:
+* User stories covered: 6
 ### Opening Times
 ![Opening Times](/docs/features/opening-times.png)
 * The opening times is located in the contact page and lets the user know when the restaurant is open
-* User stories covered:
-### Map
-![Map](/docs/features/map.png)
-* The map is located in the contact page and lets the user know the location of the retaurant on google maps
-* User stories covered:
+* User stories covered: 7
+### Customer Reviews
+![Customer Reviews](/docs/features/reviews.png)
+* The reviews are located in the reservations page and lets the user read reviews
+* User stories covered: 8
+### Reservation Form
+![Reservation Form](/docs/features/form.png)
+* The form is located in the reservations page and lets the user book a table
+* User stories covered: 9, 13
+### Footer Social Media Links
+![Footer](/docs/features/footer.png)
+* The footer social media links are located at the bottom of each page accross all pages and consist of four icons for facebook, instagram, twitter and youtube
+* User stories covered: 10
+### Sushi Making Video
+![Video](/docs/features/sushi-vid.png)
+* The video tells the user how sushi is made
+* User stories covered: 11, 14
+### Main Image
+![Main Image](/docs/features/main-image-home.png)
+![Main Image](/docs/features/main-image-menu.png)
+![Main Image](/docs/features/main-image-reservations.png)
+![Main Image](/docs/features/main-image-contact.png)
+* The main image consists of four different images that are used accross the site to give each page a different look
+* User stories covered: 15
+
+
+
+
+
+
+### Address
+![Address](/docs/features/address.png)
+* The address is located in the contact page and lets the user find out the address
+* User stories covered: 2, 12
+
+
 
 
 
