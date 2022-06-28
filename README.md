@@ -9,15 +9,63 @@
 
 ## Table of Contents
 
+1. [Project Aims](#project-aims)
+    1. [User](#user)
+    2. [Site Owner](#site-owner)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#targe-audience)
+    2. [User Requirements](#user-requirements)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Color](#color)
+    2. [Fonts](#fonts)
+    3. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Tools](#tools)
+5. [Features](#features)
+6. [Testing](#testing)
+    1. [HTML Validation](#html-validation)
+    2. [CSS Validation](#css-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Browser Compatibility](#browser-compatibility)
+7. [Credits](#credits)
+    1. [Resources](#resources)
+    2. [Acknowledegments](#acknowledegments)
+
 
 
 
 
 ## Project Aims
 ### User 
-* 
+* Find a nice restaurant that serves Sushi in Palermo
+* Be able to locate the restaurant on a map
+* Be able to read the full menu and check out the prices
+* Be able to book a table
 ### Site Owner
-* 
+* Promote the restaurant
+* Increase customers
+* Make it easy for customers to find the restaurant
+* Provide information about the restaurant to customers
+
+## User Experience
+
+### Targe Audience
+* Tourists who are on holidays in Palermo
+* Local people from Palermo
+* Small groups of people
+* Corporate Events
+
+### User Requirements
+* Simple way to navigate through the site
+* All links are working
+* Accessibility
+* Being able to quickly find information
+* Simple design and good presentation
+* Visually appealing on all sized screens
+
 ### User Stories
 
 #### First-time User
@@ -42,7 +90,6 @@
 15. As the site owner, I want the users to be able to view a different main image on each page
 
 ## Design
-
 ### Color
 ![Color](/docs/color.png)
 
@@ -79,7 +126,7 @@ A white background, black font colors were used accross the site. Red hover link
 * Github to host files and deployment of site
 
 
-## Features of the Site
+## Features
 ### Logo
 ![Logo](/docs/features/logo.png)
 * The logo for Sushi Palermo is used accross all pages and serves as a link to the index.html, which is also the about section
@@ -112,7 +159,6 @@ A white background, black font colors were used accross the site. Red hover link
 ![About images](/docs/features/about-images.png)
 * The images of the restaurant are located in the about section and gives the user an idea of how it looks inside
 * User stories covered: 5
-
 ### Prices
 ![Prices](/docs/features/food-menu-price.PNG)
 * The prices are included within the food menu and tells the user the price
@@ -146,15 +192,7 @@ range
 * The main image consists of four different images that are used accross the site to give each page a different look
 * User stories covered: 15
 
-## Resources
-* Code Institute course materials, tutor and mentor support
-* W3schools 
-* Love Running Walkthrough
-* Love Running Form Structure
-* Code Institute Slack Community
-* Pexels.com images:
-(Satoshi Hirayama, Sebastian Coman, Janko Ferlic, Alessandro Avilés Renaldi, Cottonbro, Cup of Couple, Luiz Fernando Maciel, Natan Machado Fotografia)
-* [Sushi Making Video](https://youtu.be/joweUxpHaqc) on about section
+
 
 ## Testing
 
@@ -221,6 +259,9 @@ The website was tested on the following browers:
 * Safari Mobile
 * Google Chrome
 * Firefox 
+
+### Responsiveness
+* Google Dev Tools
 
 ### Testing User Stories
 1. As a first time user, I want to be able to easily navigate through the site
@@ -427,13 +468,19 @@ The website was tested on the following browers:
 
 <br>
 
+## Credits
 
-### Responsiveness
-* Google Dev Tools
+### Resources
+* W3schools 
+* Love Running Walkthrough
+* Love Running Form Structure
+* Pexels.com images:
+(Satoshi Hirayama, Sebastian Coman, Janko Ferlic, Alessandro Avilés Renaldi, Cottonbro, Cup of Couple, Luiz Fernando Maciel, Natan Machado Fotografia)
+* [Sushi Making Video](https://youtu.be/joweUxpHaqc) on about section
 
-
-## Acknowledegments
+### Acknowledegments
 * To my family and friends for their testing, feedback and support
 * To my mentor Mo Shami for his guidance, feedback and support
 * To the Code Institute Slack community for their advice, resources and support
+
 
