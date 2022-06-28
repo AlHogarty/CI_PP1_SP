@@ -285,6 +285,13 @@ header a:hover {
     color: red;
 }
 
+/* 404 Page */
+
+.four-o-four {
+    width: 100%;
+    height: 10%
+}
+
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
     .main-content {
