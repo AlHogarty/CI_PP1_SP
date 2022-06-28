@@ -9,56 +9,64 @@
 
 ## Table of Contents
 
-1. [Project Aims](#project-aims)
-    1. [Business Type](#business-type)
-    2. [Target Audience](#target-audience)
-    3. [User Stories](#user-stories)
-2. [Features of the Site](#features-of-the-site)
-    1. [Logo](#logo)
-    2. [Navigation](#navigation)
-    3. [Main Image](#main-image)
-    4. [Content Section](#content-section)
-    5. [Footer Social Media Links](#footer-social-media-links)
-3. [Page Content](#page-content)
-    1. [Home Page](#home-page)
-    2. [Menu Page](#menu-page)
-    3. [Reservations Page](#reservations-page)
-    4. [Contact Page](#contact-page)
-4. [Design](#design)
-    1. [Color](#color)
-    2. [Fonts](#fonts)
-    3. [Wireframes](#wireframes)
-5. [Technologies Used](#technologies-used)
-    1. [Languages](#Languages)
-    2. [Tools](#tools)
-6. [Resources](#resources)
-6. [Testing](#testing)
-    1. [HTML Validation](#html-validation)
-    2. [CSS Validation](#css-validation)
-    3. [Accessibility](#accessibility)
-    4. [Performance](#performance)
-    5. [Browser Testing](#browser-testing)
-    6. [Responsiveness](#responsiveness)
-7. [Acknowledegments](#acknowledegments)
+
 
 
 
 ## Project Aims
-### Business Type
-* Restaurant specialising in Japanese food in the heart of Sicily
-### Target Audience
-* Families who are looking for something different in Palermo
-* Businesses that are looking to book corporate events
-* Tourists who are in need of some sushi in Sicily
+### User 
+* 
+### Site Owner
+* 
 ### User Stories
-* User wants to be able to easily navigate through the website
-* User wants to be able to read the history of the restaurant on the about page
-* User wants to be able to look at the menu items, images, descriptions and prices of all the meals
-* User wants to book a table in the reservations page
-* User wants to read customer reviews
-* User wants to find out the address, opening times and location on the contact page
 
+#### First-time User
+1. As a first time user, I want to be able to easily navigate through the site
+2. As a first time user, I want to to see where the restaurant is located
+3. As a first time user, I want to read about the restaurant
+4. As a first time user, I want to find out what is on the menu
+5. As a first time user, I want to see images of the restaurant
 
+#### Returning User
+6. As a returning user, I want to see the price range of the menu
+7. As a returning user, I want to see the opening times of the restaurant
+8. As a returning user, I want to read reviews of the restaurant
+9. As a returning user, I want to be able to make a reservation
+10. As a returning user, I want to find the social media links for the restaurant
+
+#### Site Owner
+11. As the site owner, I want the users to get to know the restaurant
+12. As the site owner, I want the users to find the address of the restaurant
+13. As the site owner, I want the users to be able to book a table
+14. As the site owner, I want the users to watch the video about how sushi is made
+15. As the site owner, I want the users to be able to view a different main image on each page
+
+## Design
+
+### Color
+![Color](/docs/color.png)
+
+A white background, black font colors were used accross the site. Red hover links were used on the social media links. Originally the red active links were used, but that was causeing contrast issues. A grey backgroud with white text was used on the reservations form and review section.
+
+### Fonts
+
+* Signika Negative
+* Montserrat
+
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/home-wire.png">
+</details>
+<details><summary>Menu</summary>
+<img src="docs/wireframes/menu-wire.png">
+</details>
+<details><summary>Reservations</summary>
+<img src="docs/wireframes/reservations-wire.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/contact-wire.png">
+</details>
 
 ## Features of the Site
 ### Logo
@@ -91,36 +99,6 @@
 ### Contact Page
 ![Contact Page](/docs/features/pages-contact.png)
 * The contact page shows the user contact information and consists of the address, opening times and a google maps iframe
-
-
-## Design
-
-### Color
-![Color](/docs/color.png)
-
-A white background, black font colors were used accross the site. Red hover links were used on the social media links. Originally the red active links were used, but that was causeing contrast issues. A grey backgroud with white text was used on the reservations form and review section.
-
-### Fonts
-
-* Signika Negative
-* Montserrat
-
-### Wireframes
-
-<details><summary>Home</summary>
-<img src="docs/wireframes/home-wire.png">
-</details>
-<details><summary>Menu</summary>
-<img src="docs/wireframes/menu-wire.png">
-</details>
-<details><summary>Reservations</summary>
-<img src="docs/wireframes/reservations-wire.png">
-</details>
-<details><summary>Contact</summary>
-<img src="docs/wireframes/contact-wire.png">
-</details>
-
-
 
 
 ## Technologies Used
