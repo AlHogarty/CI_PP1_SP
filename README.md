@@ -268,6 +268,7 @@ The website was tested on the following browers:
 * Firefox 
 
 ### Responsiveness
+The website was tested for mobile, tablet and desktop on:
 * Google Dev Tools
 
 ### Testing User Stories
