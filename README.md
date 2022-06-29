@@ -30,6 +30,8 @@
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
     5. [Browser Compatibility](#browser-compatibility)
+    6. [Responsiveness](#responsiveness)
+    7. [Testing User Stories](#testing-user-stories)
 7. [Credits](#credits)
     1. [Resources](#resources)
     2. [Acknowledegments](#acknowledegments)
