@@ -208,6 +208,9 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <details><summary>Contact</summary>
 <img src="docs/validation/validation-html-contact.png">
 </details>
+<details><summary>404</summary>
+<img src="docs/validation/validation-html-404.png">
+</details>
 
 ### CSS Validation
 The W3C CSS Validation Service was used to validate the CSS of the website. All pages pass with 0 errors.
@@ -235,6 +238,9 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <details><summary>Contact</summary>
 <img src="docs/validation/validation-accessibility-contact.png">
 </details>
+<details><summary>404</summary>
+<img src="docs/validation/validation-accessibility-404.png">
+</details>
 
 ### Performance
 Google Lighthouse was used to measure the performance and speed of the website. The entire site scored a high score, except for the menu.html page, which scored 88 for performance.
@@ -250,6 +256,9 @@ Google Lighthouse was used to measure the performance and speed of the website. 
 </details>
 <details><summary>Contact</summary>
 <img src="docs/validation/lighthouse-performace-contact.png">
+</details>
+<details><summary>404</summary>
+<img src="docs/validation/lighthouse-performace-404.png">
 </details>
 
 ### Browser Compatibility
