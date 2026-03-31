@@ -4,188 +4,193 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Sushi Restaurant based in Palermo, Italy">
-    <meta name="keywords" content="sushi palermo, sushi restaurant, sushi, italy">
+    <meta name="description" content="Sushi Palermo menu — starters, mains, and desserts with fresh Mediterranean ingredients.">
+    <meta name="keywords" content="sushi palermo, sushi menu, sushi, italy, palermo">
     <meta name="author" content="Alan Hogarty">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Sushi Palermo</title>
-    <!-- Favicon -->
-    <link rel="icon" href="assets/images/favicon.ico" type="images/x-icon">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <title>Menu &mdash; Sushi Palermo</title>
 </head>
 <body>
+
+    <!-- Header -->
     <header>
-        <!-- Logo -->
         <div class="logo">
-            <a href="index.html" aria-label="opens main page">
-                <h1>Sushi Palermo</h1>
-            </a>
+            <a href="index.html" aria-label="Go to home page">Sushi Palermo</a>
         </div>
-        <!-- Navbar -->
-        <nav>
+        <nav aria-label="Main navigation">
             <ul class="navigation">
-                <li>
-                    <a href="menu.html" class="active" aria-label="opens menu page">Menu</a>
-                </li>
-                <li>
-                    <a href="reservations.html" aria-label="opens reservations page">Reservations</a>
-                </li>
-                <li>
-                    <a href="contact.html" aria-label="opens contact page">Contact</a>
-                </li>
+                <li><a href="menu.html" class="active" aria-label="View our menu">Menu</a></li>
+                <li><a href="reservations.html" aria-label="Make a reservation">Reservations</a></li>
+                <li><a href="contact.html" aria-label="Contact us">Contact</a></li>
             </ul>
         </nav>
     </header>
-    <!-- Main image section -->
-    <div class="main-image-section main-image-menu">
+
+    <!-- Page Hero -->
+    <div class="page-hero hero-menu" aria-label="Menu page hero image">
+        <div class="page-hero-content">
+            <span class="eyebrow">Fresh &amp; Seasonal</span>
+            <h1>Our Menu</h1>
+        </div>
     </div>
-    <!-- Main content section -->
-    <section class="main-content">
-        <!-- Menu page -->
-        <h2 class="menu-header">Menu</h2>
-        <hr class="menu-line1">
-            <div class="food-menu">
-                <h3 class="menu-headers">Starters</h3> 
-                <div class="flex-menu">
-                    <ul>
-                        <li>
-                            <h4>Edemame</h4>
-                            <br>
+
+    <!-- Menu Content -->
+    <section class="section" aria-label="Food menu">
+        <div class="menu-section">
+
+            <!-- Starters -->
+            <div class="menu-category">
+                <div class="menu-category-header">
+                    <h3>Starters</h3>
+                    <span class="cat-line" aria-hidden="true"></span>
+                </div>
+                <div class="menu-layout">
+                    <div class="menu-items">
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Edamame</h4>
+                                <span class="price">&euro;5,50</span>
+                            </div>
                             <p>Steamed and lightly salted soybeans</p>
-                            <br>
-                            <p>5,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>Gyoza</h4>
-                            <br>
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Gyoza</h4>
+                                <span class="price">&euro;9,50</span>
+                            </div>
                             <p>Lightly pan-fried meat with vegetable dumplings</p>
-                            <br>
-                            <p>9,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>Vegetable Gyoza</h4>
-                            <br>
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Vegetable Gyoza</h4>
+                                <span class="price">&euro;9,50</span>
+                            </div>
                             <p>Lightly pan-fried vegetable dumplings</p>
-                            <br>
-                            <p>9,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>Grilled Squid</h4>
-                            <br>
-                            <p>Whole squid grilled and drizzled with our homemade teriyaki sauce and topped with sesame seeds</p>
-                            <br>
-                            <p>7,50</p>
-                            <br>
-                        </li>
-                    </ul>
-                    <div class="meals-image">
-                        <img src="assets/images/pexels-cottonbro-3297366.jpg" alt="bowl of salad">
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Grilled Squid</h4>
+                                <span class="price">&euro;7,50</span>
+                            </div>
+                            <p>Whole squid grilled and drizzled with homemade teriyaki sauce, topped with sesame seeds</p>
+                        </div>
                     </div>
-                </div>
-                <h3 class="menu-headers">Mains</h3>
-                <div class="flex-menu">
-                    <ul>
-                        <li>
-                            <h4>Crunch Roll</h4>
-                            <br>
-                            <p>Prawn tempura, cucumber, crab stick, lettuce, shredded fried potato</p>
-                            <br>
-                            <p>16,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>Crazy Salmon Roll</h4>
-                            <br>
-                            <p>Salmon, avacado, cucumber, tuna flakes</p>
-                            <br>
-                            <p>12,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>Spicy Yellowtail</h4>
-                            <br>
-                            <p>Dried tuna, lettuce, avacado</p>
-                            <br>
-                            <p>16,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>California Roll</h4>
-                            <br>
-                            <p>Avacado, cucumber, crab, lettuce</p>
-                            <br>
-                            <p>12,50</p>
-                            <br>
-                        </li>
-                    </ul>
-                    <div class="meals-image">
-                        <img src="assets/images/pexels-cottonbro-3297803.jpg" alt="sushi dish">
-                    </div>
-                </div>
-                <h3 class="menu-headers">Desserts</h3>
-                <div class="flex-menu">
-                    <ul>
-                        <li>
-                            <h4>Panna Cotta</h4>
-                            <br>
-                            <p>Italian Style Vanilla Pudding served with your choice of toppings</p>
-                            <br>
-                            <p>7,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>Italian Ice Cream Selection</h4>
-                            <br>
-                            <p>Served on a Wafer Basket with Strawberry and Cream</p>
-                            <br>
-                            <p>5,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>Affogato</h4>
-                            <br>
-                            <p>Vanilla Ice Cream served with Espresso Coffee</p>
-                            <br>
-                            <p>9,50</p>
-                            <br>
-                        </li>
-                        <li>
-                            <h4>Cannoli</h4>
-                            <br>
-                            <p>Sicilian Style Cannoli Roll filled with Irish Toonsbridge, Orange and Pistachios</p>
-                            <br>
-                            <p>9,50</p>
-                            <br>
-                        </li>
-                    </ul>
-                    <div class="meals-image">
-                        <img src="assets/images/pexels-angeloxwu-3116848.jpg" alt="cannolli">
+                    <div class="menu-image">
+                        <img src="assets/images/pexels-cottonbro-3297366.jpg" alt="Bowl of salad starter">
                     </div>
                 </div>
             </div>
-    </section>
-    <!-- Social media footer links -->
-    <footer>
-        <div class="footer-container">
-            <ul class="social-links">
-                <li>
-                    <a href="https://facebook.com" target="_blank" aria-label="opens facebook"><i class="fa-brands fa-facebook-f"></i></a>
-                </li>
-                <li>
-                    <a href="https://instagram.com" target="_blank" aria-label="opens instagram"><i class="fa-brands fa-instagram"></i></a>
-                </li>
-                <li>
-                    <a href="https://twitter.com" target="_blank" aria-label="opens twitter"><i class="fa-brands fa-twitter"></i></a>
-                </li>
-                <li>
-                    <a href="https://youtube.com" target="_blank" aria-label="opens youtube"><i class="fa-brands fa-youtube"></i></a>
-                </li>
-            </ul>
+
+            <!-- Mains -->
+            <div class="menu-category">
+                <div class="menu-category-header">
+                    <h3>Mains</h3>
+                    <span class="cat-line" aria-hidden="true"></span>
+                </div>
+                <div class="menu-layout">
+                    <div class="menu-items">
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Crunch Roll</h4>
+                                <span class="price">&euro;16,50</span>
+                            </div>
+                            <p>Prawn tempura, cucumber, crab stick, lettuce, shredded fried potato</p>
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Crazy Salmon Roll</h4>
+                                <span class="price">&euro;12,50</span>
+                            </div>
+                            <p>Salmon, avocado, cucumber, tuna flakes</p>
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Spicy Yellowtail</h4>
+                                <span class="price">&euro;16,50</span>
+                            </div>
+                            <p>Dried tuna, lettuce, avocado</p>
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>California Roll</h4>
+                                <span class="price">&euro;12,50</span>
+                            </div>
+                            <p>Avocado, cucumber, crab, lettuce</p>
+                        </div>
+                    </div>
+                    <div class="menu-image">
+                        <img src="assets/images/pexels-cottonbro-3297803.jpg" alt="Sushi main dish">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Desserts -->
+            <div class="menu-category">
+                <div class="menu-category-header">
+                    <h3>Desserts</h3>
+                    <span class="cat-line" aria-hidden="true"></span>
+                </div>
+                <div class="menu-layout">
+                    <div class="menu-items">
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Panna Cotta</h4>
+                                <span class="price">&euro;7,50</span>
+                            </div>
+                            <p>Italian style vanilla pudding served with your choice of toppings</p>
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Italian Ice Cream Selection</h4>
+                                <span class="price">&euro;5,50</span>
+                            </div>
+                            <p>Served on a wafer basket with strawberry and cream</p>
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Affogato</h4>
+                                <span class="price">&euro;9,50</span>
+                            </div>
+                            <p>Vanilla ice cream served with espresso coffee</p>
+                        </div>
+                        <div class="menu-item">
+                            <div class="menu-item-header">
+                                <h4>Cannoli</h4>
+                                <span class="price">&euro;9,50</span>
+                            </div>
+                            <p>Sicilian style cannoli roll filled with Toonsbridge ricotta, orange and pistachios</p>
+                        </div>
+                    </div>
+                    <div class="menu-image">
+                        <img src="assets/images/pexels-angeloxwu-3116848.jpg" alt="Cannoli dessert">
+                    </div>
+                </div>
+            </div>
+
         </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p class="footer-logo">Sushi Palermo</p>
+        <ul class="social-links">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Facebook page"><i class="fa-brands fa-facebook-f"></i></a>
+            </li>
+            <li>
+                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Instagram page"><i class="fa-brands fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Twitter page"><i class="fa-brands fa-twitter"></i></a>
+            </li>
+            <li>
+                <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our YouTube channel"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+        </ul>
+        <p class="footer-copy">Via della Leva 20, Palermo, Italy &nbsp;&mdash;&nbsp; &copy; 2024 Sushi Palermo</p>
     </footer>
-    <!-- imported font awesome icons -->
+
     <script src="https://kit.fontawesome.com/52c38bf5c2.js" crossorigin="anonymous"></script>
 </body>
 </html>

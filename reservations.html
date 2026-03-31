@@ -4,114 +4,128 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Sushi Restaurant based in Palermo, Italy">
-    <meta name="keywords" content="sushi palermo, sushi restaurant, sushi, italy">
+    <meta name="description" content="Book a table at Sushi Palermo — Authentic Japanese cuisine in Palermo, Sicily.">
+    <meta name="keywords" content="sushi palermo, book a table, reservation, sushi restaurant, palermo">
     <meta name="author" content="Alan Hogarty">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Sushi Palermo</title>
-    <!-- Favicon -->
-    <link rel="icon" href="assets/images/favicon.ico" type="images/x-icon">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <title>Reservations &mdash; Sushi Palermo</title>
 </head>
 <body>
+
+    <!-- Header -->
     <header>
-        <!-- Logo -->
         <div class="logo">
-            <a href="index.html" aria-label="opens main page">
-                <h1>Sushi Palermo</h1>
-            </a>
+            <a href="index.html" aria-label="Go to home page">Sushi Palermo</a>
         </div>
-        <!-- Navbar -->
-        <nav>
+        <nav aria-label="Main navigation">
             <ul class="navigation">
-                <li>
-                    <a href="menu.html" aria-label="opens menu page">Menu</a>
-                </li>
-                <li>
-                    <a href="reservations.html" class="active" aria-label="opens reservations page">Reservations</a>
-                </li>
-                <li>
-                    <a href="contact.html" aria-label="opens contact page">Contact</a>
-                </li>
+                <li><a href="menu.html" aria-label="View our menu">Menu</a></li>
+                <li><a href="reservations.html" class="active" aria-label="Make a reservation">Reservations</a></li>
+                <li><a href="contact.html" aria-label="Contact us">Contact</a></li>
             </ul>
         </nav>
     </header>
-    <!-- Main image section -->
-    <div class="main-image-section main-image-reservations">
+
+    <!-- Page Hero -->
+    <div class="page-hero hero-reservations" aria-label="Reservations page hero image">
+        <div class="page-hero-content">
+            <span class="eyebrow">Reserve Your Evening</span>
+            <h1>Book a Table</h1>
+        </div>
     </div>
-    <!-- Main content section -->
-    <section class="main-content">
-        <!-- Reservations page -->
-        <h2 class="menu-header">Book a Table!</h2>
-        <hr class="menu-line1">
-                <div class="reservations-page">
-                    <!-- Form for booking a table -->
-                    <form class="book-a-table" method="POST" action="https://formdump.codeinstitute.net/">
-                        <label for="fname">First Name</label>
-                        <input id="fname" class="text-input" name="first_name" type="text" required>
-                        <hr>
-                        <label for="lname">Last Name</label>
-                        <input id="lname" class="text-input" name="last_name" type="text" required>
-                        <hr>
-                        <label for="email">Email</label>
-                        <input id="email" class="text-input" name="email_address" type="email" required>
-                        <hr>
-                        <label for="time">Time</label>
-                        <input id="time" class="text-input" type="time" name="time" required>
-                        <hr>
-                        <label for="date">Date</label>
-                        <input id="date" class="text-input" type="date" name="date" required>
-                        <hr>
-                        <label for="quantity">Seats</label>
-                        <hr>
-                        <select id="quantity" class="text-input" name="quantity" required>
-                            <option value="1">One</option>
-                            <option value="2">Two</option>
-                            <option value="3">Three</option>
-                            <option value="4">Four</option>
-                            <option value="5">Five</option>
-                            <option value="6">Six</option>
-                        </select>
-                        <hr>
-                        <hr>
-                        <input class="book-button" type="submit" value="Let's Eat!">
-                    </form>
-                    <!-- Customer reviews -->
-                    <div class="review-container">
-                        <div class="res-text">
-                            <h3>John</h3>
-                            <p>Heard about this on Lonely Plant, decided to give it a try. 10/10!</p>
+
+    <!-- Reservations Content -->
+    <section class="section" aria-label="Reservations and reviews">
+        <div class="reservations-layout">
+
+            <!-- Booking form -->
+            <div class="booking-form-wrap">
+                <h2>Make a Reservation</h2>
+                <p class="form-subtitle">Fill in the details below and we'll confirm your booking.</p>
+                <form method="POST" action="https://formdump.codeinstitute.net/">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="fname">First Name</label>
+                            <input id="fname" class="form-control" name="first_name" type="text" required>
                         </div>
-                        <div class="res-text">
-                            <h3>Sarah</h3>
-                            <p>This restaurant is one of the best around. The food was amazing!.</p>
-                        </div>
-                        <div class="res-text">
-                            <h3>Harry</h3>
-                            <p>I heard many good things about the sushi here and decided to give it a try. I wasn't dissapointed!</p>
+                        <div class="form-group">
+                            <label for="lname">Last Name</label>
+                            <input id="lname" class="form-control" name="last_name" type="text" required>
                         </div>
                     </div>
+                    <div class="form-group">
+                        <label for="email">Email Address</label>
+                        <input id="email" class="form-control" name="email_address" type="email" required>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="date">Date</label>
+                            <input id="date" class="form-control" type="date" name="date" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="time">Time</label>
+                            <input id="time" class="form-control" type="time" name="time" required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="quantity">Number of Seats</label>
+                        <select id="quantity" class="form-control" name="quantity" required>
+                            <option value="">Select seats</option>
+                            <option value="1">1 person</option>
+                            <option value="2">2 people</option>
+                            <option value="3">3 people</option>
+                            <option value="4">4 people</option>
+                            <option value="5">5 people</option>
+                            <option value="6">6 people</option>
+                        </select>
+                    </div>
+                    <input class="book-button" type="submit" value="Confirm Reservation">
+                </form>
+            </div>
+
+            <!-- Reviews -->
+            <div class="reviews-wrap">
+                <h2>What Our Guests Say</h2>
+                <p class="reviews-subtitle">Don't just take our word for it.</p>
+
+                <div class="review-card">
+                    <blockquote>"Heard about this on Lonely Planet, decided to give it a try. 10/10!"</blockquote>
+                    <span class="review-author">— John</span>
                 </div>
-    </section>
-    <!-- Social media footer links -->
-    <footer>
-        <div class="footer-container">
-            <ul class="social-links">
-                <li>
-                    <a href="https://facebook.com" target="_blank" aria-label="opens facebook"><i class="fa-brands fa-facebook-f"></i></a>
-                </li>
-                <li>
-                    <a href="https://instagram.com" target="_blank" aria-label="opens instagram"><i class="fa-brands fa-instagram"></i></a>
-                </li>
-                <li>
-                    <a href="https://twitter.com" target="_blank" aria-label="opens twitter"><i class="fa-brands fa-twitter"></i></a>
-                </li>
-                <li>
-                    <a href="https://youtube.com" target="_blank" aria-label="opens youtube"><i class="fa-brands fa-youtube"></i></a>
-                </li>
-            </ul>
+                <div class="review-card">
+                    <blockquote>"This restaurant is one of the best around. The food was absolutely amazing!"</blockquote>
+                    <span class="review-author">— Sarah</span>
+                </div>
+                <div class="review-card">
+                    <blockquote>"I heard many good things about the sushi here and decided to give it a try. I wasn't disappointed!"</blockquote>
+                    <span class="review-author">— Harry</span>
+                </div>
+            </div>
+
         </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p class="footer-logo">Sushi Palermo</p>
+        <ul class="social-links">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Facebook page"><i class="fa-brands fa-facebook-f"></i></a>
+            </li>
+            <li>
+                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Instagram page"><i class="fa-brands fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Twitter page"><i class="fa-brands fa-twitter"></i></a>
+            </li>
+            <li>
+                <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our YouTube channel"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+        </ul>
+        <p class="footer-copy">Via della Leva 20, Palermo, Italy &nbsp;&mdash;&nbsp; &copy; 2024 Sushi Palermo</p>
     </footer>
-    <!-- imported font awesome icons -->
+
     <script src="https://kit.fontawesome.com/52c38bf5c2.js" crossorigin="anonymous"></script>
 </body>
 </html>
