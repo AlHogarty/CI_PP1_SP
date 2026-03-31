@@ -4,89 +4,95 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Sushi Restaurant based in Palermo, Italy">
-    <meta name="keywords" content="sushi palermo, sushi restaurant, sushi, italy">
+    <meta name="description" content="Sushi Palermo — Authentic Japanese cuisine in the heart of Sicily, Italy.">
+    <meta name="keywords" content="sushi palermo, sushi restaurant, sushi, italy, palermo">
     <meta name="author" content="Alan Hogarty">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
     <title>Sushi Palermo</title>
-    <!-- Favicon -->
-    <link rel="icon" href="assets/images/favicon.ico" type="images/x-icon">
 </head>
 <body>
+
+    <!-- Header -->
     <header>
-        <!-- Logo -->
         <div class="logo">
-            <a href="index.html" aria-label="opens main page">
-                <h1>Sushi Palermo</h1>
-            </a>
+            <a href="index.html" aria-label="Go to home page">Sushi Palermo</a>
         </div>
-        <!-- Navbar -->
-        <nav>
+        <nav aria-label="Main navigation">
             <ul class="navigation">
-                <li>
-                    <a href="menu.html" aria-label="opens menu page">Menu</a>
-                </li>
-                <li>
-                    <a href="reservations.html" aria-label="opens reservations page">Reservations</a>
-                </li>
-                <li>
-                    <a href="contact.html" aria-label="opens contact page">Contact</a>
-                </li>
+                <li><a href="menu.html" aria-label="View our menu">Menu</a></li>
+                <li><a href="reservations.html" aria-label="Make a reservation">Reservations</a></li>
+                <li><a href="contact.html" aria-label="Contact us">Contact</a></li>
             </ul>
         </nav>
     </header>
-    <!-- Main image section -->
-    <div class="main-image-section main-image-index">
-    </div>
-    <!-- Main content section -->
-    <section class="main-content">
-        <h2 class="menu-header">About</h2>
-        <hr class="menu-line1">
-                <!-- About text -->
-                <div class="about-text">
-                    <h3 class="menu-headers">This is our story</h3>
-                    <p>We visited Palermo a couple of years ago and were surprised to find that there were no sushi restaurants around.
-                        We decided this needed to be changed and a few years later we came up with the idea of opening up our very own 
-                        sushi restaurant in Palermo. Our main goal is to cater to tourists, families and corporate events.
-                        Our fish is caught in the mediterranean on a daily basis and served up to you.
-                    </p>
-                </div>
-                <!-- Video content -->
-                <div class="about-video">
-                    <iframe src="https://www.youtube.com/embed/joweUxpHaqc" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-                <!-- About section images -->
-                <div class="about-images">
-                    <img src="assets/images/pexels-alessandro-avilés-renaldi-12470831.jpg" alt="people clinking glasses">
-                    <img src="assets/images/pexels-cottonbro-3296391.jpg" alt="raw salmon on chopping board">
-                    <img src="assets/images/pexels-cottonbro-3296581.jpg" alt="hand holding food with chopsticks">
-                    <img src="assets/images/pexels-cottonbro-3338497.jpg" alt="edemame being prepared with salt">
-                    <img src="assets/images/pexels-cottonbro-3338500.jpg" alt="sauce being poured onto sushi">
-                    <img src="assets/images/pexels-cup-of-couple-7660476.jpg" alt="person eating a bowl of salad with chopsticks">
-                    <img src="assets/images/pexels-luiz-fernando-maciel-7717517.jpg" alt="sushi being held with chopsticks">
-                    <img src="assets/images/pexels-natan-machado-fotografia-11176614.jpg" alt="selection of sushi">
-                </div>
-    </section>
-    <!-- Social media footer links -->
-    <footer>
-        <div class="footer-container">
-            <ul class="social-links">
-                <li>
-                    <a href="https://facebook.com" target="_blank" aria-label="opens facebook"><i class="fa-brands fa-facebook-f"></i></a>
-                </li>
-                <li>
-                    <a href="https://instagram.com" target="_blank" aria-label="opens instagram"><i class="fa-brands fa-instagram"></i></a>
-                </li>
-                <li>
-                    <a href="https://twitter.com" target="_blank" aria-label="opens twitter"><i class="fa-brands fa-twitter"></i></a>
-                </li>
-                <li>
-                    <a href="https://youtube.com" target="_blank" aria-label="opens youtube"><i class="fa-brands fa-youtube"></i></a>
-                </li>
-            </ul>
+
+    <!-- Hero -->
+    <section class="hero hero-index" aria-label="Hero image">
+        <div class="hero-content">
+            <span class="eyebrow">Palermo, Sicily &mdash; Since 2022</span>
+            <h1 class="hero-title">Sushi Palermo</h1>
+            <p class="hero-subtitle">Authentic Japanese cuisine crafted with the finest Mediterranean catch, in the heart of Sicily.</p>
+            <div class="hero-buttons">
+                <a href="menu.html" class="btn-primary" aria-label="View our menu">View Menu</a>
+                <a href="reservations.html" class="btn-outline" aria-label="Book a table">Book a Table</a>
+            </div>
         </div>
+    </section>
+
+    <!-- About section -->
+    <section class="section" aria-labelledby="about-heading">
+        <div class="about-grid">
+            <div class="about-text-wrap">
+                <span class="eyebrow">Our Story</span>
+                <h2 id="about-heading">From a Spark of Inspiration</h2>
+                <p>We visited Palermo a couple of years ago and were surprised to find that there were no sushi restaurants around. We decided this needed to be changed — and a few years later, Sushi Palermo was born. Our main goal is to cater to tourists, families, and corporate events. Our fish is caught fresh in the Mediterranean on a daily basis and served straight to you.</p>
+            </div>
+            <div class="about-video">
+                <iframe src="https://www.youtube.com/embed/joweUxpHaqc" title="Sushi-making process video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+    </section>
+
+    <!-- Gallery section -->
+    <section class="section section-alt" aria-label="Photo gallery">
+        <div class="section-heading">
+            <span class="eyebrow">Gallery</span>
+            <h2>A Glimpse of Our World</h2>
+            <div class="divider"></div>
+        </div>
+        <div class="gallery-grid">
+            <img src="assets/images/pexels-alessandro-avilés-renaldi-12470831.jpg" alt="People clinking glasses at dinner">
+            <img src="assets/images/pexels-cottonbro-3296391.jpg" alt="Raw salmon on a chopping board">
+            <img src="assets/images/pexels-cottonbro-3296581.jpg" alt="Hand holding food with chopsticks">
+            <img src="assets/images/pexels-cottonbro-3338497.jpg" alt="Edamame being prepared with salt">
+            <img src="assets/images/pexels-cottonbro-3338500.jpg" alt="Sauce being poured onto sushi">
+            <img src="assets/images/pexels-cup-of-couple-7660476.jpg" alt="Person eating a bowl with chopsticks">
+            <img src="assets/images/pexels-luiz-fernando-maciel-7717517.jpg" alt="Sushi being held with chopsticks">
+            <img src="assets/images/pexels-natan-machado-fotografia-11176614.jpg" alt="Selection of sushi rolls">
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p class="footer-logo">Sushi Palermo</p>
+        <ul class="social-links">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Facebook page"><i class="fa-brands fa-facebook-f"></i></a>
+            </li>
+            <li>
+                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Instagram page"><i class="fa-brands fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Twitter page"><i class="fa-brands fa-twitter"></i></a>
+            </li>
+            <li>
+                <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our YouTube channel"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+        </ul>
+        <p class="footer-copy">Via della Leva 20, Palermo, Italy &nbsp;&mdash;&nbsp; &copy; 2024 Sushi Palermo</p>
     </footer>
-    <!-- imported font awesome icons -->
+
     <script src="https://kit.fontawesome.com/52c38bf5c2.js" crossorigin="anonymous"></script>
 </body>
 </html>

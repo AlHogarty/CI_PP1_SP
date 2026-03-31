@@ -4,122 +4,136 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Sushi Restaurant based in Palermo, Italy">
-    <meta name="keywords" content="sushi palermo, sushi restaurant, sushi, italy">
+    <meta name="description" content="Find Sushi Palermo — address, opening hours, and directions in Palermo, Sicily.">
+    <meta name="keywords" content="sushi palermo, contact, opening hours, address, palermo, italy">
     <meta name="author" content="Alan Hogarty">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Sushi Palermo</title>
-    <!-- Favicon -->
-    <link rel="icon" href="assets/images/favicon.ico" type="images/x-icon">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <title>Contact &mdash; Sushi Palermo</title>
 </head>
 <body>
+
+    <!-- Header -->
     <header>
-        <!-- Logo -->
         <div class="logo">
-            <a href="index.html" aria-label="opens main page">
-                <h1>Sushi Palermo</h1>
-            </a>
+            <a href="index.html" aria-label="Go to home page">Sushi Palermo</a>
         </div>
-        <!-- Navbar -->
-        <nav>
+        <nav aria-label="Main navigation">
             <ul class="navigation">
-                <li>
-                    <a href="menu.html" aria-label="opens menu page">Menu</a>
-                </li>
-                <li>
-                    <a href="reservations.html" aria-label="opens reservations page">Reservations</a>
-                </li>
-                <li>
-                    <a href="contact.html" class="active" aria-label="opens contact page">Contact</a>
-                </li>
+                <li><a href="menu.html" aria-label="View our menu">Menu</a></li>
+                <li><a href="reservations.html" aria-label="Make a reservation">Reservations</a></li>
+                <li><a href="contact.html" class="active" aria-label="Contact us">Contact</a></li>
             </ul>
         </nav>
     </header>
-    <!-- Main image section -->
-    <div class="main-image-section main-image-contact">
+
+    <!-- Page Hero -->
+    <div class="page-hero hero-contact" aria-label="Contact page hero image">
+        <div class="page-hero-content">
+            <span class="eyebrow">We'd Love to Hear From You</span>
+            <h1>Get in Touch</h1>
+        </div>
     </div>
-    <!-- Main content section -->
-    <section class="main-content">
-        <h2 class="menu-header">Get in Touch!</h2>
-        <hr class="menu-line1">
-        <!-- Contact page -->
-            <div class="contact-page flex-contact">
-                <div class="address">
-                    <!-- Address section -->
-                    <h3 class="menu-headers">Address</h3>
-                    <p>Sushi Palermo,<br>Via della Leva 20,<br>90142 Palermo PA,<br>Italy</p>
+
+    <!-- Contact Content -->
+    <section class="section" aria-label="Contact information">
+        <div class="contact-layout">
+
+            <!-- Address -->
+            <div>
+                <div class="contact-info-block">
+                    <h3>Address</h3>
+                    <p>
+                        Sushi Palermo<br>
+                        Via della Leva 20<br>
+                        90142 Palermo PA<br>
+                        Italy
+                    </p>
                 </div>
-                <!-- Opening times section -->
-                <div class="opening-times">
-                    <h3 class="menu-headers">Opening Times</h3>
-                    <table>
-                        <tr>
-                            <th>Day</th>
-                            <th>Open</th>
-                            <th>Close</th>
-                        </tr>
-                        <tr>
-                            <td>Monday</td>
-                            <td></td>
-                            <td>Closed</td>
-                        </tr>
-                        <tr>
-                            <td>Tuesday</td>
-                            <td></td>
-                            <td>Closed</td>
-                        </tr>
-                        <tr>
-                            <td>Wednesday</td>
-                            <td>5pm</td>
-                            <td>11pm</td>
-                        </tr>
-                        <tr>
-                            <td>Thursday</td>
-                            <td>5pm</td>
-                            <td>11pm</td>
-                        </tr>
-                        <tr>
-                            <td>Friday</td>
-                            <td>5pm</td>
-                            <td>2am</td>
-                        </tr>
-                        <tr>
-                            <td>Saturday</td>
-                            <td>11am</td>
-                            <td>2am</td>
-                        </tr>
-                        <tr>
-                            <td>Sunday</td>
-                            <td>11am</td>
-                            <td>10pm</td>
-                        </tr>
+
+                <div class="contact-info-block">
+                    <h3>Opening Hours</h3>
+                    <table class="hours-table" aria-label="Opening hours">
+                        <thead>
+                            <tr>
+                                <th>Day</th>
+                                <th>Hours</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Monday</td>
+                                <td>Closed</td>
+                            </tr>
+                            <tr>
+                                <td>Tuesday</td>
+                                <td>Closed</td>
+                            </tr>
+                            <tr>
+                                <td>Wednesday</td>
+                                <td>5pm &ndash; 11pm</td>
+                            </tr>
+                            <tr>
+                                <td>Thursday</td>
+                                <td>5pm &ndash; 11pm</td>
+                            </tr>
+                            <tr>
+                                <td>Friday</td>
+                                <td>5pm &ndash; 2am</td>
+                            </tr>
+                            <tr>
+                                <td>Saturday</td>
+                                <td>11am &ndash; 2am</td>
+                            </tr>
+                            <tr>
+                                <td>Sunday</td>
+                                <td>11am &ndash; 10pm</td>
+                            </tr>
+                        </tbody>
                     </table>
                 </div>
             </div>
-            <!-- Imported google map -->
-            <div class="map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3137.4535306513008!2d13.37466!3d38.152898!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e616b863ff63%3A0x19d0fb5c9e8ae1e6!2sVia%20della%20Leva%2C%2020%2C%2090142%20Palermo%20PA%2C%20Italy!5e0!3m2!1sen!2sie!4v1656252310658!5m2!1sen!2sie" width="400" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+            <!-- Right column placeholder for balance on larger screens -->
+            <div class="contact-info-block">
+                <h3>Reservations</h3>
+                <p>To book a table, please use our <a href="reservations.html" style="color: var(--gold); text-decoration: underline;" aria-label="Go to reservations page">online reservation form</a>. We look forward to welcoming you.</p>
             </div>
-    </section>
-    <!-- Social media footer links -->
-    <footer>
-        <div class="footer-container">
-            <ul class="social-links">
-                <li>
-                    <a href="https://facebook.com" target="_blank" aria-label="opens facebook"><i class="fa-brands fa-facebook-f"></i></a>
-                </li>
-                <li>
-                    <a href="https://instagram.com" target="_blank" aria-label="opens instagram"><i class="fa-brands fa-instagram"></i></a>
-                </li>
-                <li>
-                    <a href="https://twitter.com" target="_blank" aria-label="opens twitter"><i class="fa-brands fa-twitter"></i></a>
-                </li>
-                <li>
-                    <a href="https://youtube.com" target="_blank" aria-label="opens youtube"><i class="fa-brands fa-youtube"></i></a>
-                </li>
-            </ul>
+
         </div>
+
+        <!-- Map -->
+        <div class="map-wrap" aria-label="Google map showing restaurant location">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3137.4535306513008!2d13.37466!3d38.152898!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319e616b863ff63%3A0x19d0fb5c9e8ae1e6!2sVia%20della%20Leva%2C%2020%2C%2090142%20Palermo%20PA%2C%20Italy!5e0!3m2!1sen!2sie!4v1656252310658!5m2!1sen!2sie"
+                title="Map showing Sushi Palermo location"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+                allowfullscreen>
+            </iframe>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p class="footer-logo">Sushi Palermo</p>
+        <ul class="social-links">
+            <li>
+                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Facebook page"><i class="fa-brands fa-facebook-f"></i></a>
+            </li>
+            <li>
+                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Instagram page"><i class="fa-brands fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our Twitter page"><i class="fa-brands fa-twitter"></i></a>
+            </li>
+            <li>
+                <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="Visit our YouTube channel"><i class="fa-brands fa-youtube"></i></a>
+            </li>
+        </ul>
+        <p class="footer-copy">Via della Leva 20, Palermo, Italy &nbsp;&mdash;&nbsp; &copy; 2024 Sushi Palermo</p>
     </footer>
+
     <script src="https://kit.fontawesome.com/52c38bf5c2.js" crossorigin="anonymous"></script>
 </body>
 </html>
